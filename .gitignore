@@ -1,3 +1,5 @@
 
 /Data/Stage
 Data/Bronze/orders.parquet.zip
+/Data/Bronze/orders.parquet
+Data/Silver/orders.parquet.zip
