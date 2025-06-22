@@ -6,7 +6,7 @@
 
 
 
-**Link Google Drive:** https://drive.google.com/drive/folders/1MnhQvW5hI68PeTQZ6mSqwJjMIG87cQt_?usp=drive_link
+*Link Google Drive para execução direta:* https://drive.google.com/drive/folders/1MnhQvW5hI68PeTQZ6mSqwJjMIG87cQt_?usp=drive_link
 ---
 
 ## 1. Visão Geral do Projeto
