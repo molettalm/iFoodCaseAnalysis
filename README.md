@@ -62,9 +62,14 @@ Cada notebook é responsável por uma etapa do processo e gera artefatos (dados 
 4.  **`4.Exercicio2Analise.ipynb`**
     * **O que faz:** Carrega os dados da camada `Silver` e executa a análise de segmentação do **Desafio 2**. Ele cria os segmentos de "Padrão de Consumo" e "RFM" e realiza a análise do teste A/B para cada um deles.
     * **Saída:** Gera os DataFrames com os resultados da análise por segmento, que são salvos na camada `Gold` (`iFood/Data/Gold/`).
+  
 
 5.  **`5.Exercicio3Conclusoes.ipynb`**
     * **O que faz:** Executa a análise final do **Desafio 3**.Gera as simulações financeiras comparativas e as visualizações gerenciais que compõem a recomendação estratégica final.
  
 
 ---
+
+** A recomendação seria clonar o repositorio, fazer upload dos notebooks no colab, e rodar utilizando integração direto com google drive. Ou Rodar os notebooks no colab.
+
+** A pasta /Data contem quase todos os arquivos necessarios para replicar diretamente a analise num setup local, com exceção do parquet do dataframe de orders na camada Bronze, devido ao tamanho.  Os notebooks a partir do 3. consumindo direto da camada silver, não teriam problema.
