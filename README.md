@@ -69,7 +69,8 @@ Cada notebook é responsável por uma etapa do processo e gera artefatos (dados 
 
 5.  **`5.Exercicio3Conclusoes.ipynb`**
     * **O que faz:** Executa a análise final do **Desafio 3**.Gera as simulações financeiras comparativas e as visualizações gerenciais que compõem a recomendação estratégica final.
- 
+      
+    **`7.Relatório Estratégico: Campanha de Cupons Case Técnico iFood.pdf`** Relatório final.
 
 ---
 
